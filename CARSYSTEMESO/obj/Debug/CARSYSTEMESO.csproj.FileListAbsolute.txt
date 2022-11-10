@@ -1,0 +1,10 @@
+C:\Users\nnorc\Desktop\New folder (6)\CARSYSTEM\CARSYSTEMESO\bin\Debug\CARSYSTEMESO.exe.config
+C:\Users\nnorc\Desktop\New folder (6)\CARSYSTEM\CARSYSTEMESO\bin\Debug\CARSYSTEMESO.exe
+C:\Users\nnorc\Desktop\New folder (6)\CARSYSTEM\CARSYSTEMESO\bin\Debug\CARSYSTEMESO.pdb
+C:\Users\nnorc\Desktop\New folder (6)\CARSYSTEM\CARSYSTEMESO\obj\Debug\CARSYSTEMESO.csprojAssemblyReference.cache
+C:\Users\nnorc\Desktop\New folder (6)\CARSYSTEM\CARSYSTEMESO\obj\Debug\CARSYSTEMESO.Form1.resources
+C:\Users\nnorc\Desktop\New folder (6)\CARSYSTEM\CARSYSTEMESO\obj\Debug\CARSYSTEMESO.Properties.Resources.resources
+C:\Users\nnorc\Desktop\New folder (6)\CARSYSTEM\CARSYSTEMESO\obj\Debug\CARSYSTEMESO.csproj.GenerateResource.cache
+C:\Users\nnorc\Desktop\New folder (6)\CARSYSTEM\CARSYSTEMESO\obj\Debug\CARSYSTEMESO.csproj.CoreCompileInputs.cache
+C:\Users\nnorc\Desktop\New folder (6)\CARSYSTEM\CARSYSTEMESO\obj\Debug\CARSYSTEMESO.exe
+C:\Users\nnorc\Desktop\New folder (6)\CARSYSTEM\CARSYSTEMESO\obj\Debug\CARSYSTEMESO.pdb
